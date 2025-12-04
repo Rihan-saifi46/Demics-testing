@@ -168,7 +168,7 @@ creative design agency</h1>
           </div>
 
           {/* Service 4 - Website */}
-          <div className="border border-white/20 rounded-2xl lg:rounded-[20px] min-h-[400px] md:h-[400px] lg:h-[65vh] w-full lg:w-[75vw] flex flex-col-reverse md:flex-row overflow-hidden">
+          {/* <div className="border border-white/20 rounded-2xl lg:rounded-[20px] min-h-[400px] md:h-[400px] lg:h-[65vh] w-full lg:w-[75vw] flex flex-col-reverse md:flex-row overflow-hidden">
             <div className="w-full md:w-[55%] gap-4 md:gap-6 lg:gap-7 px-6 py-8 md:py-0 pl-[3vw] flex flex-col justify-center">
               <h1 className='text-4xl md:text-5xl lg:text-[4.7vw] w-full md:w-[80%] font-semibold leading-tight lg:leading-[5vw]'>Website</h1>
               <p className='w-full md:w-[85%] lg:w-[68%] text-base md:text-lg lg:text-xl'>We craft custom websites, branding, and digital strategies to help your business stand out and thrive online.</p>
@@ -179,7 +179,7 @@ creative design agency</h1>
             <div className="w-full md:w-[45%] flex items-center justify-center h-64 md:h-full p-4">
               <div className='contact h-full w-full rounded-lg'></div>
             </div>
-          </div>
+          </div> */}
 
           {/* Service 5 - AD Creation */}
           <div className="border border-white/20 rounded-2xl lg:rounded-[20px] min-h-[400px] md:h-[400px] lg:h-[65vh] w-full lg:w-[75vw] flex flex-col md:flex-row overflow-hidden mb-12">
