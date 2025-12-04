@@ -182,7 +182,7 @@ creative design agency</h1>
           </div>
 
           {/* Service 5 - AD Creation */}
-          {/* <div className="border border-white/20 rounded-2xl lg:rounded-[20px] min-h-[400px] md:h-[400px] lg:h-[65vh] w-full lg:w-[75vw] flex flex-col md:flex-row overflow-hidden mb-12">
+          <div className="border border-white/20 rounded-2xl lg:rounded-[20px] min-h-[400px] md:h-[400px] lg:h-[65vh] w-full lg:w-[75vw] flex flex-col md:flex-row overflow-hidden mb-12">
             <div className="w-full md:w-[50%] flex justify-center items-center h-64 md:h-full p-4">
               <div className='contact h-full w-full rounded-lg'></div>
             </div>
@@ -191,7 +191,7 @@ creative design agency</h1>
               <p className='w-full md:w-[85%] text-base md:text-lg lg:text-xl'>We craft custom websites, branding, and digital strategies to help your business stand out and thrive online.</p>
               <button className='contact w-full sm:w-[50%] md:w-[35%] lg:w-[25%] rounded-full h-12 lg:h-[10%] shadow-[-1px_-1px_1px_0_rgba(255,255,255,1)] hover:bg-white/10 transition-all'>Learn More</button>
             </div>
-          </div> */}
+          </div>
         </div>
 
         {/* Background decorative images - hidden on mobile for performance */}
