@@ -8,7 +8,7 @@ import WorkOpen from './comp/WorkOpen'
 const App = () => {
   return (
     <div className='overflow-x-hidden'>
-     <Workopen/>
+     <Home/>
     </div>
   )
 }
