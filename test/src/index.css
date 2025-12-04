@@ -1,0 +1,40 @@
+@import "tailwindcss";
+:root {
+  --primary: #272628;
+  --secondary: #8201ff;
+  --third:#151414;
+  --purple:#8200ff;
+  --five:#a992d1;
+  --six:#16062b;
+  --seven:#c29ffb;
+  --seven:#ad58ff;
+}
+@layer utilities {
+  .my-btn {
+    background: var(--primary);
+    color: white;
+  }
+  .contact {
+    background: var(--secondary);
+  }
+  .home{
+    background: var(--third);
+  }
+ .an {
+    background: var(--secondary);
+  }
+ .an1 {
+    color: var(--five);
+  }
+ .v {
+    border:2px var(--five) solid;
+  }
+  .us{
+    background: var(--six);
+     /* opacity: 0.25;  */
+  }
+  .video{
+    background: var(--seven);
+  }
+ 
+}
